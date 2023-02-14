@@ -27,7 +27,7 @@ SECRET_KEY = "95dd8549aa207b3439e89fff1ab5e78f5c367fff4eb39326"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://web-production-cb9d.up.railway.app/']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
